@@ -36,7 +36,7 @@
 
 
 .bgimage {
-  background: url(/img/header-bg1.jpg) center; 
+/*   background: url(/img/header-bg1.jpg) center;  */
   background-color:black;
   background-size: cover;
 
